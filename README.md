@@ -37,29 +37,38 @@ I am a **Full Stack Developer** who builds scalable systems with the precision o
 
 <table border="0">
   <tr>
-     <td width="50%" valign="top">
-      <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Social+Media+App" alt="Social" style="border-radius:10px;">
-      <h4>🌐 Social Media (Fake News Detection)</h4>
+    <td width="50%" valign="top">
+      <a href="APNA_LINK_HERE" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Social+Media+App" alt="Social" style="border-radius:10px;">
+        <h4>🌐 Social Media (Fake News Detection)</h4>
+      </a>
       <p>Real-time platform featuring user profiles and an intelligent system to flag fake content.</p>
       <code>MERN Stack</code> <code>Socket.io</code> <code>ML/API</code>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Personal+Portfolio" alt="Portfolio" style="border-radius:10px;">
-      <h4>🎨 Aesthetic Portfolio</h4>
+      <a href="APNA_LINK_HERE" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Personal+Portfolio" alt="Portfolio" style="border-radius:10px;">
+        <h4>🎨 Aesthetic Portfolio</h4>
+      </a>
       <p>Modern personal branding site with advanced GSAP animations and fluid smooth scrolling.</p>
       <code>React</code> <code>GSAP</code> <code>Tailwind</code>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Shortify+Pro" alt="Shortener" style="border-radius:10px;">
-      <h4>🔗 Shortify Pro</h4>
+      <a href="https://url-shortner-frontend-sk01.onrender.com/" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=Shortify+Pro" alt="Shortener" style="border-radius:10px;">
+        <h4>🔗 Shortify Pro</h4>
+      </a>
       <p>Advanced URL shortener with secure user dashboards and detailed link analytics.</p>
       <code>React</code> <code>Node.js</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=E-Commerce+Clone" alt="E-com" style="border-radius:10px;">
-      <h4>🛒 E-Commerce Suite</h4>
+      <a href="APNA_LINK_HERE" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://placehold.co/600x350/1a1a1a/36BCF7?text=E-Commerce+Clone" alt="E-com" style="border-radius:10px;">
+        <h4>🛒 E-Commerce Suite</h4>
+      </a>
       <p>A pixel-perfect Amazon/Flipkart clone focusing on responsive design and smooth user flow.</p>
       <code>HTML</code> <code>CSS</code> <code>Bootstrap</code>
     </td>
